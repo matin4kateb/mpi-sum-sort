@@ -93,8 +93,3 @@ Last 10 elements: [0.9999543 0.9999876 ...]
 * Designed to demonstrate **core MPI principles**, **process communication**, and **distributed computation workflows** for academic purposes.
 
 ---
-
-**Course:** Distributed Systems – Shahrekord University
-**Author:** Mohammad Matin Kateb
-
-```
